@@ -1,3 +1,3 @@
 public interface IOS {
-    void IOS();
+    void iOS();
 }
